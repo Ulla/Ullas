@@ -1,1 +1,1 @@
-Sanningen
+Sanningen = true
